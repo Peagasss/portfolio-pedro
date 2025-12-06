@@ -1,6 +1,6 @@
 // src/firebaseConfig.js
 import { initializeApp } from "firebase/app";
-import { getFirestore } from "firebase/firestore";
+import { getFirestore, enableNetwork } from "firebase/firestore";
 
 // Agora usamos import.meta.env para puxar as variáveis escondidas
 const firebaseConfig = {
@@ -14,3 +14,5 @@ const firebaseConfig = {
 
 const app = initializeApp(firebaseConfig);
 export const db = getFirestore(app);
+
+enableNetwork(db).catch(console.error);
