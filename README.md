@@ -4,7 +4,7 @@ Este é um portfólio moderno e dinâmico desenvolvido para Designers e Desenvol
 
 Além disso, possui um **Simulador de Orçamentos** inteligente que envia o pedido pronto diretamente para o WhatsApp.
 
-🔗 **Demo Online:** [https://designerph.shop](https://designerph.shop)
+🔗 **Projeto em tempo real:** [https://designerph.shop](https://designerph.shop)
 
 ---
 
