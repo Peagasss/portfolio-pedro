@@ -78,6 +78,7 @@ VITE_APP_ID=seu_app_id
 
 # Configuração do Admin
 VITE_ADMIN_PASSWORD=SuaSenhaSecretaAqui
+```
 
 
 
