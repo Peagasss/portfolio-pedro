@@ -1,8 +1,10 @@
 # 🎨 Portfolio Profissional & Sistema de Orçamentos
 
-Este é um portfólio moderno e dinâmico desenvolvido para Designers e Desenvolvedores. Diferente de sites estáticos comuns, este projeto conta com um **Painel Administrativo (CMS)** integrado, permitindo a gestão completa de projetos, serviços, combos promocionais e informações de perfil sem tocar em uma linha de código.
+Este é um portfólio moderno e dinâmico desenvolvido principalmente para Designers e Desenvolvedores. 
 
-Além disso, possui um **Simulador de Orçamentos** inteligente que envia o pedido pronto diretamente para o WhatsApp.
+Diferente de sites estáticos comuns, este projeto conta com um **Painel Administrativo (CMS)** integrado, permitindo a gestão completa de projetos, serviços, combos promocionais e informações de perfil sem tocar em uma linha de código, facilitando novos usuários no ramo de programação.
+
+Além disso, possui um **Simulador de Orçamentos** inteligente que envia o pedido pronto diretamente para o WhatsApp, podendo ser substituido por um sistema de checkout (MercadoPago, Stripe ou demais).
 
 🔗 **Projeto em tempo real:** [https://designerph.shop](https://designerph.shop)
 
