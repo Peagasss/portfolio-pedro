@@ -45,10 +45,6 @@ Além disso, possui um **Simulador de Orçamentos** inteligente que envia o pedi
 ## 🛠️ Como Rodar Localmente
 
 1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-    cd NOME-DO-REPO
-    ```
 
 2.  **Instale as dependências:**
     ```bash
