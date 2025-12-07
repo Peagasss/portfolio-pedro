@@ -95,4 +95,4 @@ VITE_ADMIN_PASSWORD=SuaSenhaSecretaAqui
 
 
 
-Desenvolvido por Pedro Henrique.
+Desenvolvido por Pedro Henrique. Ao utilizar eu peço que referêncie o projeto.
