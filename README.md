@@ -44,7 +44,7 @@ Além disso, possui um **Simulador de Orçamentos** inteligente que envia o pedi
 
 ## 🛠️ Como Rodar Localmente
 
-1.  **Clone o repositório:**
+1.  **Clone o repositório**
 
 2.  **Instale as dependências:**
     ```bash
