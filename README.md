@@ -1,4 +1,4 @@
-# 🎨 Portfolio Profissional e Sistema de Orçamentos
+# 🎨 Portfolio Profissional / Sistema de Orçamentos
 
 Este é um portfólio moderno e dinâmico desenvolvido principalmente para Designers e Desenvolvedores. 
 
